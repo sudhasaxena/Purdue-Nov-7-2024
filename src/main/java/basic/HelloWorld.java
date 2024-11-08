@@ -10,5 +10,10 @@ public class HelloWorld {
 	public void m1() {
 		System.out.println("from m1");
 	}
+	
+	// from b1 branch
+		public void m2() {
+			System.out.println("from m2");
+		}
 
 }
